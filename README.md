@@ -83,5 +83,5 @@ def curve_grades():
 
 [ ] Add grade letter assignment (A, B, C) based on score ranges.
 
-👨‍💻 Author
-Your Name A CS Student exploring Data Science & GUI Development.
+
+Just me exploring Data Science & GUI Development.
