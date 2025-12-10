@@ -24,12 +24,6 @@ The **Student Performance Dashboard** is a GUI-based data analysis tool designed
 
 ---
 
-## 📸 Screenshots
-
-![Dashboard Preview](https://via.placeholder.com/600x400?text=App+Screenshot+Here)
-
----
-
 ## 🛠️ Tech Stack
 
 | Component | Library | Purpose |
